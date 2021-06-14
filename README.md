@@ -1,4 +1,4 @@
-### Welcome to my github. I'm currently working on the JavaScript app for drawing chemical structures. If you are interested in my work, please do not hesitate to contact me :) 
+### Welcome to my github. I'm currently working on the JavaScript app for drawing chemical structures. If you are interested in my work, please do not hesitate to contact me. 
 
 <!--
 **MalgorzataPrucnal/MalgorzataPrucnal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
