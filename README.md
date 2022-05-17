@@ -1,5 +1,5 @@
 ### Hi. 
-![last modified](https://img.shields.io/aur/last-modified/google-chrome)
+
 
 <!--
 **MalgorzataPrucnal/MalgorzataPrucnal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
